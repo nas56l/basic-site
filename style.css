@@ -1,0 +1,30 @@
+body {
+    background-color: #3E2A35;
+}
+
+h1 {
+    font-family: 'Courier New', Courier;
+    text-align: center;
+    color: #E26D5A;
+    font-size: 120px;
+    margin-bottom: -1%;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    color: #3E2A35;
+}
+
+div {
+    margin: 12% 100px;
+    border: 5px solid #BBB09B;
+}
+
+div:hover {
+    background-color: #D7BBA8;
+}
+
+div:hover p {
+    color: #3993DD;
+}
